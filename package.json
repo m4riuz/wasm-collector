@@ -1,0 +1,15 @@
+{
+  "name": "wasm-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "puppeteer": "^1.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Musch",
+  "license": "ISC"
+}
